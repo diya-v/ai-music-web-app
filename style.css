@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    background-color: rgb(255, 0, 128);
+    width: 100%;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: white;
+}
+.note{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+#song-name{
+    background-color: rgb(255, 0, 128);
+    width: 40%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow:rgb(255, 0, 128);
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+}
